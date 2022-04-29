@@ -64,6 +64,12 @@ h6 {
      color: #111111;
      margin: 0
 }
+.run {
+    color: white;
+    border: 1px solid blue;
+    font-size: 15px;
+    background-color: red;
+}
 
 h1 {
      font-size: 24px
@@ -358,9 +364,10 @@ body{
 }
 .carousel-indicators li{
     display:block; margin-bottom:5px; border:1px solid #00a199; 
-    margin-bottom: 5px;}
-    
+    margin-bottom: 5px;
 }
+    
+
 .carousel-indicators li.active{
     margin-bottom:5px; background:#00a199;
     
@@ -425,7 +432,7 @@ body{
     padding-top: 30px;
     font-size: 16pt;
     color: #0c0116;
-    border-bottom: 1px solid#000;
+    border-bottom: 1px solid #000;
     margin: 0 auto;
 }
 .dolar_text{
