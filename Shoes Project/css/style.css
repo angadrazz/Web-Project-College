@@ -270,7 +270,6 @@ button {
 	font-size: 30pt;
 	color: #db5660;
 }
-
 .mens_text{
 	width: 100%;
 	float: left;
@@ -293,6 +292,7 @@ button {
 	background-color: #ff4e5b;
 	color: #ffffff;
 	font-size: 16pt;
+    border-radius: 5px;
  }
 
  .more_bt{
@@ -303,6 +303,7 @@ button {
 	color: #ff4e5b;
 	font-size: 16pt;
 	margin-left: 25px;
+    border-radius: 5px;
  }
 
 .banner_taital{
