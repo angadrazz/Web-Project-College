@@ -65,10 +65,8 @@ h6 {
      margin: 0
 }
 .run {
-    color: white;
-    border: 1px solid blue;
-    font-size: 15px;
-    background-color: red;
+    color: black;
+    background-color: #aac5efe6;
 }
 
 h1 {
