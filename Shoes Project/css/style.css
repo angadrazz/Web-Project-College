@@ -62,7 +62,7 @@ h6 {
      font-weight: normal;
      line-height: normal;
      color: #111111;
-     margin: 0
+     margin: 0;
 }
 .run {
     color: black;
@@ -324,26 +324,6 @@ body{
 }
 .slide-wrapper{display:inline;}
 .slide-wrapper .container{padding:0;}
-
-
-/*------------------------------ vertical bootstrap slider----------------------------*/
-
-.carousel-inner> .carousel-item.carousel-item-next ,
-.carousel-inner > .carousel-item.active.carousel-item-right{ 
-    transform: translate3d(0, 100%, 0); -webkit-transform: translate3d(0, 100%, 0); -ms-transform: translate3d(0, 100%, 0); -moz-transform: translate3d(0, 100%, 0); -o-transform: translate3d(0, 100%, 0);  top: 0;
-    
-}
-.carousel-inner > .carousel-item.carousel-item-prev ,
-.carousel-inner > .carousel-item.active.carousel-item-left{ 
-    transform: translate3d(0,-100%, 0); -webkit-transform: translate3d(0,-100%, 0);  -moz-transform: translate3d(0,-100%, 0);-ms-transform: translate3d(0,-100%, 0); -o-transform: translate3d(0,-100%, 0); top: 0;
-    
-}
-.carousel-inner > .carousel-item.next.carousel-item-left ,
-.carousel-inner > .carousel-item.carousel-item-prev.carousel-item-right ,
-.carousel-inner > .carousel-item.active{
-    transform:translate3d(0,0,0); -webkit-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);; -moz-transform:translate3d(0,0,0); -o-transform:translate3d(0,0,0); top:0;
-    
-}
 
 /*------------------------------- vertical carousel indicators ------------------------------*/
 .carousel-indicators{
