@@ -290,20 +290,20 @@ button {
 	height: 50px;
 	color: #ffffff;
 	background-color: #ff4e5b;
-	color: #ffffff;
-	font-size: 16pt;
-    border-radius: 5px;
+	color: #ffff;
+	font-size: 22pt;
+    border-radius: 15px;
  }
 
  .more_bt{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #ffffff;
-	color: #ff4e5b;
-	font-size: 16pt;
+	background-color: #ef0aa3;
+	color: #ffff;
+	font-size: 22pt;
 	margin-left: 25px;
-    border-radius: 5px;
+    border-radius: 15px;
  }
 
 .banner_taital{
@@ -638,7 +638,7 @@ body{
 }
 .main_bt {
     background: #ff4e5b;
-    border: none;
+    border-radius: 22px;
     width: 170px;
     height: 58px;
     font-size: 26px;
@@ -779,11 +779,13 @@ a:hover {
 
 .subscribr_bt {
     width: 80%;
-    float: right;
+    float:right;
+    margin-right: 10%;
     background-color: #ff4e5b;
     font-size: 13pt;
     height: 50px;
     color: #ffffff;
+    border-radius: 20px;
 }
 
 
